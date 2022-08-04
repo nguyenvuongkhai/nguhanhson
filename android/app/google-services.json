@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "317627958104",
+    "project_id": "nguhanhson-97cdd",
+    "storage_bucket": "nguhanhson-97cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317627958104:android:4b60bf1e2507afe2301b2d",
+        "android_client_info": {
+          "package_name": "com.nguhanhson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317627958104-iptghlqub5uf57i1urnqurq9p2qc8stm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsrwHgpXd18CfPM9xLTVR3P_unI9EJvW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317627958104-iptghlqub5uf57i1urnqurq9p2qc8stm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317627958104-cid6gg8hlndf18bfag58bj9lo4fr7v1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.nguhanhson"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
